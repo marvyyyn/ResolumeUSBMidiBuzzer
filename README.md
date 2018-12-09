@@ -31,7 +31,9 @@ using potis or more than one taster
 
 ### Having some fun
 
-
+## Ideas & basic notes
+dip switch for note change?
+two controller possible?
 
 ## Disclaimer
 put some warnings here
