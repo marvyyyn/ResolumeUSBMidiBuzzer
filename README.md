@@ -15,6 +15,7 @@ It's really simple and i didn't invent something new. But i thought i could be a
 | USB A -> USB B cable| 1     |  For connection between buzzer (keystone module) and your computer.
 
 Costs really depends on where you source your Arduino and which taster you use. 
+
 I think i payed a total of 50€ - this includes 35€ for the taster.
 
 ## Guide 
