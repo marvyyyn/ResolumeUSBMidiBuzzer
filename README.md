@@ -26,6 +26,9 @@ link to sparkfun guide
 ### Wireing the buzzer
 wireing diagram keystone module 
 
+### Modifications
+using potis or more than one taster
+
 ### Having some fun
 
 
