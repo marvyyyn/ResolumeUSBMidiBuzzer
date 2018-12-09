@@ -1,6 +1,6 @@
 # ResolumeUSBMidiBuzzer
 
-I wanted a buzzer which can be used as a USB midi controller in [Resolume Arena 6](https://www.resolume.com).So i created this simple project based on an Arduino Pro Micro and using some sample code from the [USBMIDI library](https://github.com/BlokasLabs/USBMIDI). The whole hardware fits in one of this big red/black industrial buzzers (in Germany we call it "Grobhandtaster").
+I wanted a buzzer which can be used as a USB midi controller in [Resolume Arena](https://www.resolume.com).So i created this simple project based on an Arduino Pro Micro and using some sample code from the [USBMIDI library](https://github.com/BlokasLabs/USBMIDI). The whole hardware fits in one of this big red/black industrial buzzers (in Germany we call it "Grobhandtaster").
 
 It's really simple and i didn't invent something new. But i thought i could be a useful and fun project for some of you guys.
 
