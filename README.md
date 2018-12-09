@@ -18,6 +18,8 @@ Costs really depends on where you source your Arduino and which taster you use.
 
 I think i payed a total of 50€ - this includes 35€ for the taster.
 
+Keep in mind that you need a soldering iron, cables to connect the taster and maybe some hot glue.
+
 ## Guide 
 ### Preparing your Arduino
 todo 
@@ -25,6 +27,8 @@ link to sparkfun guide
 
 ### Wireing the buzzer
 wireing diagram keystone module 
+
+<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/wireing.png" width="250">
 
 ### Modifications
 using potis or more than one taster
