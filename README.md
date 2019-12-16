@@ -16,29 +16,27 @@ It's really simple and i didn't invent something new. But i thought i could be a
 | USB A -> USB B cable| 1     |  For connection between buzzer (keystone module) and your computer.
 
 Costs really depends on where you source your Arduino and which taster you use. 
-
 I think i payed a total of 50€ - this includes 35€ for the taster.
 
-Keep in mind that you need a soldering iron, cables to connect the taster and maybe some hot glue.
+Keep in mind that you need a soldering iron, cables to connect the taster and maybe some hot glue. I also used a 3d printed housing for the usb connector.
+
 ## Guide 
 ### Preparing your Arduino
-todo 
-link to sparkfun guide
+Please read the [guide at Sparkfun](https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/all) for how to setup the Arduino Pro Micro.
+
+Than load the Arduino project from this github and flash it to the Arduino.
 
 ### Wireing the buzzer
-wireing diagram keystone module 
+It is really simple, just connect as follows:
 
 <img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/wireing.png" width="250">
 
-### Modifications
-using potis or more than one taster
+## Ideas & basic notes
+* The midi note can only be changed while programing the Arduino. Maybe i add a dip switch or a rotary encoder to setup the note and use multiple buzzers.
+* The Arduino could be used for more than more buzzer. Or taster. Or Poti. Use it for whatever you want.
 
 ### Having some fun
 <img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/fun.gif" width="250">
-
-## Ideas & basic notes
-dip switch for note change?
-two controller possible?
 
 ## Disclaimer
 put some warnings here
