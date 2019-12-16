@@ -33,10 +33,10 @@ It is really simple, just connect as follows:
 
 ## Ideas & basic notes
 * The midi note can only be changed while programing the Arduino. Maybe i add a dip switch or a rotary encoder to setup the note and use multiple buzzers.
-* The Arduino could be used for more than more buzzer. Or taster. Or Poti. Use it for whatever you want.
+* The Arduino could be used for more than one buzzer. Or taster. Or Poti. Use it for whatever you want.
 
 ### Having some fun
 <img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/fun.gif" width="250">
 
 ## Disclaimer
-put some warnings here
+Use on your own risk!
