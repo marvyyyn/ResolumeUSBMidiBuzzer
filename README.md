@@ -63,6 +63,7 @@ The Arduino will automaticly register as a MIDI controller. In Resolume go to pr
 
 ## Enjoy!
 <img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/fun.gif" width="250">
+
 Please consider to buy me a [coffee](https://www.buymeacoffee.com/marvyn).
 
 ## Disclaimer
