@@ -24,23 +24,28 @@ Keep in mind that you need a soldering iron, cables to connect the taster and ma
 ### Preparing your Arduino
 Please read the [guide at Sparkfun](https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/all) for how to setup the Arduino Pro Micro.
 
-Than load the Arduino project from this github and flash it to the Arduino.
+## Install libraries
+You need to install the [USBMIDI library](https://github.com/BlokasLabs/USBMIDI).
+
+## Flashing
+Load the Arduino project from this github and flash it to the Arduino.
 
 ### Wireing the buzzer
 It is really simple, just connect as follows:
 
 <img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/wireing.png" width="250">
 
-###
-setup in resolume
+### Setup in Resolume
+The Arduino will automaticly register as a MIDI controller. In Resolume go to preferences -> MIDI and activitate the input. After that you can map your actions like shown in the [Resolume documentation](https://resolume.com/support/midi-shortcuts).
 
 ## Ideas & basic notes
 * The midi note can only be changed while programing the Arduino. Maybe i add a dip switch or a rotary encoder to setup the note and use multiple buzzers.
 * The Arduino could be used for more than one buzzer. Or taster. Or Poti. Use it for whatever you want.
-* I will build a wifi/osc version soon.
+* WLAN/OSC version comming soon.
 
-## Having some fun
+## Enjoy!
 <img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/fun.gif" width="250">
+Please consider to buy me a [coffee](https://www.buymeacoffee.com/marvyn).
 
 ## Disclaimer
 Use on your own risk!
