@@ -35,7 +35,7 @@ wireing diagram keystone module
 using potis or more than one taster
 
 ### Having some fun
-<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/images/fun.gif" width="250">
+<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/fun.gif" width="250">
 
 ## Ideas & basic notes
 dip switch for note change?
