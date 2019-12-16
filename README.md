@@ -31,6 +31,9 @@ It is really simple, just connect as follows:
 
 <img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/wireing.png" width="250">
 
+###
+setup in resolume
+
 ## Ideas & basic notes
 * The midi note can only be changed while programing the Arduino. Maybe i add a dip switch or a rotary encoder to setup the note and use multiple buzzers.
 * The Arduino could be used for more than one buzzer. Or taster. Or Poti. Use it for whatever you want.
