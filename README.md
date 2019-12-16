@@ -1,4 +1,4 @@
-<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/images/buzzer.png" width="250">
+<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/buzzer.jpg" width="250">
 
 # ResolumeUSBMidiBuzzer
 
