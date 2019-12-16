@@ -24,10 +24,15 @@ Keep in mind that you need a soldering iron, cables to connect the taster and ma
 ### Preparing your Arduino
 Please read the [guide at Sparkfun](https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/all) for how to setup the Arduino Pro Micro.
 
-## Install libraries
+<b>Install libraries</b>
+
 You need to install the [USBMIDI library](https://github.com/BlokasLabs/USBMIDI).
 
-## Flashing
+<b>Change MIDI note</b>
+
+
+<b>Flashing</b>
+
 Load the Arduino project from this github and flash it to the Arduino.
 
 ### Wireing the buzzer
