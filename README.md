@@ -1,6 +1,5 @@
-<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/buzzer.jpg" width="250">
-
 # ResolumeUSBMidiBuzzer
+<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/buzzer.jpg" width="250" align="right">
 
 I wanted a buzzer which can be used as a USB midi controller in [Resolume Arena](https://www.resolume.com). So i created this simple project based on an Arduino Pro Micro and using some sample code from the [USBMIDI library](https://github.com/BlokasLabs/USBMIDI). The whole hardware fits in one of this big red/black industrial buzzers (in Germany we call it "Grobhandtaster").
 
