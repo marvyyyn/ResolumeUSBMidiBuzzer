@@ -3,14 +3,11 @@
  *  https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/
  *  
  *  
- *  todo 
- *  - add disclaimer
- *  
- *  
- *  
  *  This project is based up on the USBMIDI Library and it example code.
  *  So please make shure you installed the library from https://github.com/BlokasLabs/USBMIDI
  *  and read the licence. Thanks.
+ *
+ *  Disclaimer: Use it own your own risk!
  */
 
 #include <midi_serialization.h>
