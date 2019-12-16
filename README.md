@@ -28,12 +28,25 @@ Please read the [guide at Sparkfun](https://learn.sparkfun.com/tutorials/pro-mic
 
 You need to install the [USBMIDI library](https://github.com/BlokasLabs/USBMIDI).
 
-<b>Change MIDI note</b>
-
-
 <b>Flashing</b>
 
 Load the Arduino project from this github and flash it to the Arduino.
+
+<b>Change pin / MIDI note</b>
+
+If you want to change the pin of the taster or the MIDI note, just change the following variables.
+
+```C
+/*
+ * SETUP [START]
+ */
+const int iBUTTON_PIN = 9;
+const int iBUTTON_NOTE = 64;
+/*
+ * SETUP [END]
+ */
+ ```
+
 
 ### Wireing the buzzer
 It is really simple, just connect as follows:
