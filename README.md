@@ -53,10 +53,8 @@ It is really simple, just connect as follows:
 
 <img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/images/wireing.png" width="250">
 
-<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/images/buzzer_wireing1.jpg" width="150">
-<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/images/buzzer_wireing2.jpg" width="150">
-<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/images/buzzer_wireing3.jpg" width="150">
-<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/images/buzzer_wireing4.jpg" width="150">
+<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/images/buzzer_wireing1.jpg" width="150"> <img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/images/buzzer_wireing2.jpg" width="150">
+<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/images/buzzer_wireing3.jpg" width="150"> <img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/images/buzzer_wireing4.jpg" width="150">
 
 ### Setup in Resolume
 The Arduino will automaticly register as a MIDI controller. In Resolume go to preferences -> MIDI and activitate the input. After that you can map your actions like shown in the [Resolume documentation](https://resolume.com/support/midi-shortcuts).
