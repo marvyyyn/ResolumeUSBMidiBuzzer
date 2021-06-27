@@ -1,5 +1,5 @@
 # ResolumeUSBMidiBuzzer
-<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/buzzer.jpg" width="250" align="right">
+<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/images/buzzer.jpg" width="250" align="right">
 
 I wanted a buzzer which can be used as a USB midi controller in [Resolume Arena](https://www.resolume.com). So i created this simple project based on an Arduino Pro Micro and using some sample code from the [USBMIDI library](https://github.com/BlokasLabs/USBMIDI). The whole hardware fits in one of this big red/black industrial buzzers (in Germany we call it "Grobhandtaster").
 
@@ -51,7 +51,12 @@ const int iBUTTON_NOTE = 64;
 ### Wireing the buzzer
 It is really simple, just connect as follows:
 
-<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/wireing.png" width="250">
+<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/images/wireing.png" width="250">
+
+<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/images/buzzer_wireing1.jpg" width="150">
+<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/images/buzzer_wireing2.jpg" width="150">
+<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/images/buzzer_wireing3.jpg" width="150">
+<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/images/buzzer_wireing4.jpg" width="150">
 
 ### Setup in Resolume
 The Arduino will automaticly register as a MIDI controller. In Resolume go to preferences -> MIDI and activitate the input. After that you can map your actions like shown in the [Resolume documentation](https://resolume.com/support/midi-shortcuts).
@@ -62,7 +67,7 @@ The Arduino will automaticly register as a MIDI controller. In Resolume go to pr
 * WLAN/OSC version comming soon.
 
 ## Enjoy!
-<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/fun.gif" width="250">
+<img src="https://github.com/marvyyyn/ResolumeUSBMidiBuzzer/raw/master/images/fun.gif" width="250">
 
 If this project is usefull for you, please consider to buy me a [coffee](https://www.buymeacoffee.com/marvyn).
 
